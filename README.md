@@ -11,7 +11,7 @@ ki = .1
 Unlike the video, the latest software supports three potentiometers allowing for each value to be adjusted on the fly.
 
 # Tips and tricks
-* If your robot falls violently over, reverse the polarity of the drive motors so that the rotate in the opposite direction to counter the topple.
+* If your robot falls violently over, reverse the polarity of the drive motors so that they rotate in the opposite direction to counter the topple.
 * If your robot wheels rotate in opposite directions, reverse the polarity of one of the motors
 * If the kp, kd and ki parameters don't respond to the potentiometers:
 ** Solder thicker legs to the potentiometers so they make better contact with the shield.
